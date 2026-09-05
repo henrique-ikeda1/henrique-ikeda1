@@ -1,12 +1,10 @@
-⚡ Calculadora de gastos mensais com energia elética
+#  ⚡Calculadora de gastos mensais com energia elética
 
-<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
-
-https://img.shields.io/badge/version-1.0.0-blue
-https://img.shields.io/badge/Python-3.8%252B-3776AB?logo=python&logoColor=white
-https://img.shields.io/badge/GitHub-Reposit%C3%B3rio-181717?logo=github&logoColor=white
-https://img.shields.io/badge/Energia-C%C3%A1lculo%2520El%C3%A9trico-FFD700?logo=flash&logoColor=black
-https://img.shields.io/badge/status-Conclu%C3%ADdo-brightgreen
+<img alt="Static Badge" src="https://img.shields.io/badge/version-1.0.0-blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/Python-3.8%252B-3776AB?logo=python&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-Reposit%C3%B3rio-181717?logo=github&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Energia-C%C3%A1lculo%2520El%C3%A9trico-FFD700?logo=flash&logoColor=black">
+<img alt="Static Badge" src="https://img.shields.io/badge/status-Conclu%C3%ADdo-brightgreen">
 
 📖 Objetivo do Sistema
 <!-- PREENCHER: Descreva de forma clara e resumida qual é a finalidade do seu programa. -->
