@@ -1,5 +1,7 @@
 # 👋 Olá, eu sou o Henrique!
 - 🎓 Estudante de Desenvolvimento de Sistemas | Centro Paula Souza | Polo Etec Itaquera II
+- 🎓 Estudante de Serviços Jurídicos | Etec CEU Sapopemba
+- 🎓 Estudante de bacharelado em Administração Pública | Uninter | Polo São Mateus
 - 🔰 Iniciante em programação no geral
 - 🧑‍💼 Tecnólogo em Gestão de Negócios e Inovação | Fatec Sebrae
 ## 🛠️ Tecnologias que estudo
